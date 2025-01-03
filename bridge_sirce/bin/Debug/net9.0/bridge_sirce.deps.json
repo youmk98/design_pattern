@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "bridge_sirce/1.0.0": {
+        "runtime": {
+          "bridge_sirce.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "bridge_sirce/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\hp\project_design_patern\exam\code_exo1\bin\Debug\net9.0\code_exo1.exe
+C:\Users\hp\project_design_patern\exam\code_exo1\bin\Debug\net9.0\code_exo1.deps.json
+C:\Users\hp\project_design_patern\exam\code_exo1\bin\Debug\net9.0\code_exo1.runtimeconfig.json
+C:\Users\hp\project_design_patern\exam\code_exo1\bin\Debug\net9.0\code_exo1.dll
+C:\Users\hp\project_design_patern\exam\code_exo1\bin\Debug\net9.0\code_exo1.pdb
+C:\Users\hp\project_design_patern\exam\code_exo1\obj\Debug\net9.0\code_exo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\project_design_patern\exam\code_exo1\obj\Debug\net9.0\code_exo1.AssemblyInfoInputs.cache
+C:\Users\hp\project_design_patern\exam\code_exo1\obj\Debug\net9.0\code_exo1.AssemblyInfo.cs
+C:\Users\hp\project_design_patern\exam\code_exo1\obj\Debug\net9.0\code_exo1.csproj.CoreCompileInputs.cache
+C:\Users\hp\project_design_patern\exam\code_exo1\obj\Debug\net9.0\code_exo1.dll
+C:\Users\hp\project_design_patern\exam\code_exo1\obj\Debug\net9.0\refint\code_exo1.dll
+C:\Users\hp\project_design_patern\exam\code_exo1\obj\Debug\net9.0\code_exo1.pdb
+C:\Users\hp\project_design_patern\exam\code_exo1\obj\Debug\net9.0\code_exo1.genruntimeconfig.cache
+C:\Users\hp\project_design_patern\exam\code_exo1\obj\Debug\net9.0\ref\code_exo1.dll

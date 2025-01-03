@@ -1,0 +1,14 @@
+C:\Users\hp\project_design_patern\console_project\bin\Debug\net9.0\console_project.exe
+C:\Users\hp\project_design_patern\console_project\bin\Debug\net9.0\console_project.deps.json
+C:\Users\hp\project_design_patern\console_project\bin\Debug\net9.0\console_project.runtimeconfig.json
+C:\Users\hp\project_design_patern\console_project\bin\Debug\net9.0\console_project.dll
+C:\Users\hp\project_design_patern\console_project\bin\Debug\net9.0\console_project.pdb
+C:\Users\hp\project_design_patern\console_project\obj\Debug\net9.0\console_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\project_design_patern\console_project\obj\Debug\net9.0\console_project.AssemblyInfoInputs.cache
+C:\Users\hp\project_design_patern\console_project\obj\Debug\net9.0\console_project.AssemblyInfo.cs
+C:\Users\hp\project_design_patern\console_project\obj\Debug\net9.0\console_project.csproj.CoreCompileInputs.cache
+C:\Users\hp\project_design_patern\console_project\obj\Debug\net9.0\console_project.dll
+C:\Users\hp\project_design_patern\console_project\obj\Debug\net9.0\refint\console_project.dll
+C:\Users\hp\project_design_patern\console_project\obj\Debug\net9.0\console_project.pdb
+C:\Users\hp\project_design_patern\console_project\obj\Debug\net9.0\console_project.genruntimeconfig.cache
+C:\Users\hp\project_design_patern\console_project\obj\Debug\net9.0\ref\console_project.dll

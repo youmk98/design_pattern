@@ -1,0 +1,14 @@
+C:\Users\hp\project_design_patern\tp_1\obj\Debug\net9.0\tp_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\project_design_patern\tp_1\obj\Debug\net9.0\tp_1.AssemblyInfoInputs.cache
+C:\Users\hp\project_design_patern\tp_1\obj\Debug\net9.0\tp_1.AssemblyInfo.cs
+C:\Users\hp\project_design_patern\tp_1\obj\Debug\net9.0\tp_1.csproj.CoreCompileInputs.cache
+C:\Users\hp\project_design_patern\tp_1\bin\Debug\net9.0\tp_1.exe
+C:\Users\hp\project_design_patern\tp_1\bin\Debug\net9.0\tp_1.deps.json
+C:\Users\hp\project_design_patern\tp_1\bin\Debug\net9.0\tp_1.runtimeconfig.json
+C:\Users\hp\project_design_patern\tp_1\bin\Debug\net9.0\tp_1.dll
+C:\Users\hp\project_design_patern\tp_1\bin\Debug\net9.0\tp_1.pdb
+C:\Users\hp\project_design_patern\tp_1\obj\Debug\net9.0\tp_1.dll
+C:\Users\hp\project_design_patern\tp_1\obj\Debug\net9.0\refint\tp_1.dll
+C:\Users\hp\project_design_patern\tp_1\obj\Debug\net9.0\tp_1.pdb
+C:\Users\hp\project_design_patern\tp_1\obj\Debug\net9.0\tp_1.genruntimeconfig.cache
+C:\Users\hp\project_design_patern\tp_1\obj\Debug\net9.0\ref\tp_1.dll

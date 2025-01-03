@@ -1,0 +1,14 @@
+C:\Users\hp\project_design_patern\tp_2\obj\Debug\net9.0\tp_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\project_design_patern\tp_2\obj\Debug\net9.0\tp_2.AssemblyInfoInputs.cache
+C:\Users\hp\project_design_patern\tp_2\obj\Debug\net9.0\tp_2.AssemblyInfo.cs
+C:\Users\hp\project_design_patern\tp_2\obj\Debug\net9.0\tp_2.csproj.CoreCompileInputs.cache
+C:\Users\hp\project_design_patern\tp_2\bin\Debug\net9.0\tp_2.exe
+C:\Users\hp\project_design_patern\tp_2\bin\Debug\net9.0\tp_2.deps.json
+C:\Users\hp\project_design_patern\tp_2\bin\Debug\net9.0\tp_2.runtimeconfig.json
+C:\Users\hp\project_design_patern\tp_2\bin\Debug\net9.0\tp_2.dll
+C:\Users\hp\project_design_patern\tp_2\bin\Debug\net9.0\tp_2.pdb
+C:\Users\hp\project_design_patern\tp_2\obj\Debug\net9.0\tp_2.dll
+C:\Users\hp\project_design_patern\tp_2\obj\Debug\net9.0\refint\tp_2.dll
+C:\Users\hp\project_design_patern\tp_2\obj\Debug\net9.0\tp_2.pdb
+C:\Users\hp\project_design_patern\tp_2\obj\Debug\net9.0\tp_2.genruntimeconfig.cache
+C:\Users\hp\project_design_patern\tp_2\obj\Debug\net9.0\ref\tp_2.dll

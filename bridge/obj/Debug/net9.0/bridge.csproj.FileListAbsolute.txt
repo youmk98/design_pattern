@@ -1,0 +1,4 @@
+C:\Users\hp\project_design_patern\bridge\obj\Debug\net9.0\bridge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\project_design_patern\bridge\obj\Debug\net9.0\bridge.AssemblyInfoInputs.cache
+C:\Users\hp\project_design_patern\bridge\obj\Debug\net9.0\bridge.AssemblyInfo.cs
+C:\Users\hp\project_design_patern\bridge\obj\Debug\net9.0\bridge.csproj.CoreCompileInputs.cache

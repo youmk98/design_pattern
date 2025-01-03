@@ -1,0 +1,1 @@
+le sysytème clône les document standard de la classe Liasse vierge

@@ -1,0 +1,14 @@
+C:\Users\hp\project_design_patern\bridge_sirce\bin\Debug\net9.0\bridge_sirce.exe
+C:\Users\hp\project_design_patern\bridge_sirce\bin\Debug\net9.0\bridge_sirce.deps.json
+C:\Users\hp\project_design_patern\bridge_sirce\bin\Debug\net9.0\bridge_sirce.runtimeconfig.json
+C:\Users\hp\project_design_patern\bridge_sirce\bin\Debug\net9.0\bridge_sirce.dll
+C:\Users\hp\project_design_patern\bridge_sirce\bin\Debug\net9.0\bridge_sirce.pdb
+C:\Users\hp\project_design_patern\bridge_sirce\obj\Debug\net9.0\bridge_sirce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\project_design_patern\bridge_sirce\obj\Debug\net9.0\bridge_sirce.AssemblyInfoInputs.cache
+C:\Users\hp\project_design_patern\bridge_sirce\obj\Debug\net9.0\bridge_sirce.AssemblyInfo.cs
+C:\Users\hp\project_design_patern\bridge_sirce\obj\Debug\net9.0\bridge_sirce.csproj.CoreCompileInputs.cache
+C:\Users\hp\project_design_patern\bridge_sirce\obj\Debug\net9.0\bridge_sirce.dll
+C:\Users\hp\project_design_patern\bridge_sirce\obj\Debug\net9.0\refint\bridge_sirce.dll
+C:\Users\hp\project_design_patern\bridge_sirce\obj\Debug\net9.0\bridge_sirce.pdb
+C:\Users\hp\project_design_patern\bridge_sirce\obj\Debug\net9.0\bridge_sirce.genruntimeconfig.cache
+C:\Users\hp\project_design_patern\bridge_sirce\obj\Debug\net9.0\ref\bridge_sirce.dll
